@@ -10,7 +10,7 @@ El documento permite crear 6 clases con sus correspondientea tributos.
 
 ### Ejecución
 
-
+Version java 15.
 
 Para correcta ejecución se recomienda abrir desde  el IDE [Eclipse](https://www.eclipse.org/downloads/), ya que este IDE cuenta con una instalación automatica de las librerias necesarias al momento de importa el código, también puedes seguir las siguientes instrucciones para un correcto funcionanmiento.
 
@@ -26,6 +26,6 @@ En caso de no poder ejercutar el proyecto correctamente, también recomienda cre
 ### Paquetes
 
 - Main
-[Main] con tiene la clase principal para crear los objetos y ejecutarlos
+[Main] con tiene la clase principal para crear los objetos y ejecutarlos.
 - Entity
 [Entity] - contiene las clases objetos[Person, Fruit, BankAccount, PlayerSoccer, Biker, Chair]
