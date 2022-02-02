@@ -18,7 +18,7 @@ Para correcta ejecución se recomienda abrir desde  el IDE [Eclipse](https://www
 - En eclipse seleccionar `File`, seguido seleccionar `Open Projects from File System`
 - Seleccionar `Import source:` marcar `Directory...`
 - Buscar la carpeta descomprimida y marcar `Select Folder`
-- Dar enter en `Import`
+- Dar enter en `Finish`
 - Eclipse automaticamente instalara las librerias necesarias para una correcta ejecución.
 
 En caso de no poder ejercutar el proyecto correctamente, también recomienda crear un proyecto nuevo y anexar la carpeta `src`.
