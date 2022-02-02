@@ -26,5 +26,7 @@ En caso de no poder ejercutar el proyecto correctamente, también recomienda cre
 ### Paquetes
 
 >[src] - Contiene los paquetes `Main` y `Entity`
+
 >[Main]  - Contiene la clase principal para crear los objetos y ejecutarlos.
+
 >[Entity] - Contiene las clases objetos[Person, Fruit, BankAccount, PlayerSoccer, Biker, Chair]
